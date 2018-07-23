@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{0EEC2247-CD0F-826A-44F5-2ACD9C601751}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/fourdesire/shaders/cginc-gradient-helper.cginc">
+    <Files>
+      <File FileName="Assets/fourdesire/graphics/FDGradientLinear.cs" Line="25" Column="6" />
+      <File FileName="Assets/fourdesire/graphics/FDGradient.cs" Line="13" Column="12" />
+      <File FileName="Assets/fourdesire/shaders/cginc-gradient-helper.cginc" Line="23" Column="1" />
+      <File FileName="Assets/fourdesire/shaders/shader-gradient-linear.shader" Line="66" Column="157" />
+      <File FileName="Assets/fourdesire/graphics/FDGradientAngle.cs" Line="10" Column="52" />
+      <File FileName="Assets/fourdesire/graphics/FDGradientRadial.cs" Line="21" Column="49" />
+      <File FileName="Assets/fourdesire/shaders/shader-gradient-radial.shader" Line="50" Column="14" />
+      <File FileName="Assets/fourdesire/shaders/shader-gradient-angle.shader" Line="64" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Gradient PreferredExecutionTarget="Unity.Editor" />
+</Properties>
