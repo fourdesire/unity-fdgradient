@@ -8,7 +8,7 @@ Material:
   m_PrefabInternal: {fileID: 0}
   m_Name: gradient-angle
   m_Shader: {fileID: 4800000, guid: c71652fcdb446470f925108d392db3fc, type: 3}
-  m_ShaderKeywords: _ASPECTMETHOD_SCALE
+  m_ShaderKeywords: _ASPECTMETHOD_USERSPECIFIED
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -19,8 +19,8 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Aspect: 1
-    - _AspectMethod: 0
+    - _Aspect: 2
+    - _AspectMethod: 1
     - _AspectX: 2
     - _AspectY: 1
     - _CenterX: 0.5
