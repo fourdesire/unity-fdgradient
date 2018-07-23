@@ -229,7 +229,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &662317331
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -257,6 +257,7 @@ MonoBehaviour:
   - 0
   Center: {x: 0.5, y: 0.5}
   Aspect: {x: 1, y: 1}
+  AutoAspect: 1
 --- !u!23 &662317332
 MeshRenderer:
   m_ObjectHideFlags: 0

@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{76D51722-2FB3-102D-DE28-47239AAA1288}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/fourdesire/graphics/FDGradientRadialUI.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/fourdesire/graphics/FDGradientRadial.cs">
     <Files>
       <File FileName="Assets/fourdesire/graphics/FDGradientAngle.cs" Line="24" Column="1" />
       <File FileName="Assets/fourdesire/shaders/shader-gradient-angle.shader" Line="77" Column="1" />
       <File FileName="Assets/fourdesire/shaders/shader-gradient-linear.shader" Line="8" Column="9" />
-      <File FileName="Assets/fourdesire/shaders/shader-gradient-radial.shader" Line="74" Column="17" />
+      <File FileName="Assets/fourdesire/shaders/shader-gradient-radial.shader" Line="52" Column="44" />
       <File FileName="Assets/fourdesire/graphics/FDGradientLinearUI.cs" Line="10" Column="26" />
       <File FileName="Assets/fourdesire/graphics/FDGradientRadial.cs" Line="26" Column="1" />
       <File FileName="Assets/fourdesire/graphics/FDGradientLinear.cs" Line="7" Column="21" />
       <File FileName="Assets/fourdesire/graphics/FDGradientUI.cs" Line="17" Column="31" />
       <File FileName="Assets/fourdesire/graphics/FDGradientAngleUI.cs" Line="17" Column="54" />
-      <File FileName="Assets/fourdesire/graphics/FDGradientRadialUI.cs" Line="8" Column="33" />
+      <File FileName="Assets/fourdesire/graphics/FDGradientRadialUI.cs" Line="17" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
