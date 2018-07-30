@@ -19,7 +19,7 @@ namespace FD.Graphics {
 			UpdateGradient ();
 		}
 
-		protected virtual void UpdateGradient () {
+		public virtual void UpdateGradient () {
 
 			if (GradientMat != null) {
 

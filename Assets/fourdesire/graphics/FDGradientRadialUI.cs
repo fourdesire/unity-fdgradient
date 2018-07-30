@@ -11,7 +11,7 @@ namespace FD.Graphics {
 		public Vector2 Aspect = Vector2.one;
 		public bool AutoAspect = true;
 
-		protected override void UpdateGradient () {
+		public override void UpdateGradient () {
 			base.UpdateGradient ();
 
 			if (GradientMat != null) {
