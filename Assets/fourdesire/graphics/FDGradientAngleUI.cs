@@ -9,7 +9,7 @@ namespace FD.Graphics {
 
 		public Vector2 Center = new Vector2 (0.5f, 0.5f);
 
-		protected override void UpdateGradient () {
+		public override void UpdateGradient () {
 			base.UpdateGradient ();
 
 			if (GradientMat != null) {

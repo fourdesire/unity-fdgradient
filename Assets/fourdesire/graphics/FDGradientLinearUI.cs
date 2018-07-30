@@ -9,7 +9,7 @@ namespace FD.Graphics {
 
 		public float Angle = 0;
 
-		protected override void UpdateGradient () {
+		public override void UpdateGradient () {
 			base.UpdateGradient ();
 
 			if (GradientMat != null) {
